@@ -9,8 +9,8 @@
         "core/models/__init__.py",
         "core/engine/frontend_preliminary_propellent_and_motor_design.py",
         "core/models/preliminary_propellent_and_motor_design.py",
-        "core/models/fight_parameters_calc.py",
+        "core/models/flight_parameters_calc.py",
         "core/models/htc_calculations_new.py",
-        "core/models/sress_calculations_new.py"
+        "core/models/stress_calculations_new.py"
     ]
 }

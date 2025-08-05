@@ -67,4 +67,4 @@ def test_to_be_named():
         print(f"{key}: {value}")
 
 
-test_to_be_named()
+# test_to_be_named()
