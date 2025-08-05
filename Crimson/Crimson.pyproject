@@ -1,7 +1,6 @@
 {
     "files": [
         "main.py",
-        "core/__init__.py",
         "data/sample_config.json",
         "ui/__init__.py",
         "ui/main_window.py",
