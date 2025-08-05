@@ -1,0 +1,16 @@
+{
+    "files": [
+        "main.py",
+        "core/__init__.py",
+        "data/sample_config.json",
+        "ui/__init__.py",
+        "ui/main_window.py",
+        "core/engine/__init__.py",
+        "core/models/__init__.py",
+        "core/engine/frontend_preliminary_propellent_and_motor_design.py",
+        "core/models/preliminary_propellent_and_motor_design.py",
+        "core/models/fight_parameters_calc.py",
+        "core/models/htc_calculations_new.py",
+        "core/models/sress_calculations_new.py"
+    ]
+}
