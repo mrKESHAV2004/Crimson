@@ -1,4 +1,4 @@
-from core.engine.preliminary_propellent_and_motor_design.py import calculate_motor_parameters
+from core.models.preliminary_propellent_and_motor_design.py import calculate_motor_parameters
 
 def get_float(prompt):
     while True:
@@ -41,7 +41,7 @@ def main():
             exit_cone_efficiency,
             density,
             empty_rocket_weight,
-            propellant_mass_fraction
+            propellant_mass_fraction,
         )
 
         print("\n--- Calculation Results ---")
